@@ -11,7 +11,7 @@ const Logo = () => {
                     alt="Logo"
                     width={100}
                     height={24}
-                    priority
+                    priority  // Prioritize loading this image
                 />
             </Link>
         </div>
