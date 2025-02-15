@@ -24,6 +24,9 @@ Check out the live version of the application here: [DocuCraft Live](https://doc
 - **Next.js**: A React-based framework for server-side rendering and generating static websites.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **MDX**: Combines Markdown and JSX, allowing for rich content creation.
+- **Gray-matter**: Parse front-matter from a string or file. Fast, reliable and easy to use. [Click here to know more](https://www.npmjs.com/package/gray-matter).
+- **Remark**: Unified processor with support for parsing from markdown and serializing to markdown. [Click here to know more](https://www.npmjs.com/package/remark).
+- **Remark-html**: Compiles markdown to HTML. [Click here to know more](https://www.npmjs.com/package/remark-html).
 
 ## Getting Started
 
