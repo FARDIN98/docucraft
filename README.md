@@ -15,6 +15,10 @@ DocuCraft is a modern documentation website template designed to help developers
 
 Check out the live version of the application here: [DocuCraft Live](https://docucraft-eta.vercel.app/)
 
+## Preview
+
+![Docucraft Screenshot](public/docucraft-screenshot.png)
+
 ## Technologies Used
 
 - **Next.js**: A React-based framework for server-side rendering and generating static websites.
